@@ -5,8 +5,6 @@ body {
 h3 {
     display: inline;
     float: left;
-    font-family: ui-monospace;
-    color:goldenrod;
 }
 
 .navbar {
