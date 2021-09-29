@@ -5,6 +5,12 @@ body {
 h3 {
     display: inline-flex;
     float: left;
+    margin: 0px;
+    margin-top: 13px;
+    margin-left: 12px;
+    margin-right: 12px;
+    font-family: fantasy;
+    color: goldenrod;
 }
 
 .navbar {
