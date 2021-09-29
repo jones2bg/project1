@@ -2,6 +2,13 @@ body {
     margin: 0px;
 }
 
+h3 {
+    display: inline;
+    float: left;
+    font-family: ui-monospace;
+    color:goldenrod;
+}
+
 .navbar {
     background-color: rgb(75, 74, 74);
     overflow: hidden;
