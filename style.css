@@ -128,16 +128,7 @@ input[type='text'], [type='email'], select, textarea {
 	padding: 0 0 0.875em 0;
   text-transform: uppercase;
 	width: 100%;
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	-ms-box-sizing: border-box;
-	-o-box-sizing: border-box;
 	box-sizing: border-box;
-	-webkit-transition: all 0.3s;
-	-moz-transition: all 0.3s;
-	-ms-transition: all 0.3s;
-	-o-transition: all 0.3s;
-	transition: all 0.3s;
 }
 
 input[type='text']:focus, [type='email']:focus, textarea:focus {
@@ -157,8 +148,6 @@ input[type='text']:focus, [type='email']:focus, textarea:focus {
 select {
   background: url('https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-down-32.png') no-repeat right;
   outline: none;
-  -moz-appearance: none;
-  -webkit-appearance: none;
 }
 
 select::-ms-expand {
@@ -178,24 +167,6 @@ textarea {
 	height: 150px;
 	resize: none;
   width: 100%;
-}
-
-::-webkit-input-placeholder {
-	color: #474544;
-}
-
-:-moz-placeholder { 
-	color: #474544;
-	opacity: 1;
-}
-
-::-moz-placeholder {
-	color: #474544;
-	opacity: 1;
-}
-
-:-ms-input-placeholder {
-	color: #474544;
 }
 
 #form_button {
