@@ -12,7 +12,7 @@ h3 {
     margin-left: 12px;
     margin-right: 12px;
     font-family: 'Montserrat';
-    color: rgb(218, 103, 32);
+    color: rgb(203, 182, 119);
 }
 
 .navbar {
@@ -35,7 +35,7 @@ h3 {
 }
 
 .navbar a.active {
-    background-color: #a9000b;
+    background-color: #450084;
     color: white;
 }
 
