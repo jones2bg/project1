@@ -232,4 +232,14 @@ textarea {
   input[type='text'], [type='email'], select, textarea {
     font-size: 0.875em;
   }
+
+  #footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  #center {
+    width: 500px;
+    margin: 0 auto;
+  }
 }
