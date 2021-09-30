@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 body {
     margin: 0px;
 }
@@ -9,7 +11,7 @@ h3 {
     margin-top: 13px;
     margin-left: 12px;
     margin-right: 12px;
-    font-family: fantasy;
+    font-family: 'Montserrat';
     color: goldenrod;
 }
 
@@ -36,8 +38,6 @@ h3 {
     background-color: #a9000b;
     color: white;
 }
-
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 html {
   font-family: 'Montserrat', Arial, sans-serif;
