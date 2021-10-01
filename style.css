@@ -18,12 +18,12 @@ h3 {
 .navbar {
   background-color: rgb(75, 74, 74);
   overflow: hidden;
+  position: fixed;
+  top: 0;
 }
 
 .navbar a {
   float: left;
-  position: fixed;
-  top: 0;
   color: #f0ecec;
   text-align: center;
   padding: 14px 16px;
