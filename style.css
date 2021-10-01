@@ -22,6 +22,8 @@ h3 {
 
 .navbar a {
   float: left;
+  position: fixed;
+  top: 0;
   color: #f0ecec;
   text-align: center;
   padding: 14px 16px;
