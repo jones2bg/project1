@@ -23,6 +23,7 @@ h3 {
   background-color: rgb(75, 74, 74);
   overflow: hidden;
   position: fixed;
+  justify-content: center;
   top: 0;
 }
 
