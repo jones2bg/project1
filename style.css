@@ -25,6 +25,7 @@ h3 {
   position: fixed;
   justify-content: center;
   top: 0;
+  width: 100%;
 }
 
 .navbar a {
